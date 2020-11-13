@@ -33,9 +33,7 @@
   * eOTC Trading Platform
   * Data and Financial Products / Smart Baskets
 
-* Funding:
-
-AlphaPoint has raised a total of $23.2M over 6 rounds of funding, with the latest funding raised on Mar 5, 2020 from a Venture-Series round. Past rounds of funding are as follows (Crunchbase, n.d., #): 
+* AlphaPoint has raised a total of $23.2M over 6 rounds of funding, with the latest funding raised on Mar 5, 2020 from a Venture-Series round. Past rounds of funding are as follows (Crunchbase, n.d., #): 
 
   * June 14, 2018 Series A with 1 investor raising $15M
   * July 1, 2017 Non-Equity Assistance
@@ -43,7 +41,7 @@ AlphaPoint has raised a total of $23.2M over 6 rounds of funding, with the lates
   * May 16, 2016 Convertible Note with 1 investor raising $50K
   * Oct 15, 2014 Seed Round with 4 investors raising $1.5M
 
-The total number of investors in AlphaPoint is 6 with one Lead Investor. The other investors are as follows:
+* The total number of investors in AlphaPoint is 6 with one Lead Investor. The other investors are as follows:
 
   * Galaxy Digital LP (Lead Investor)
   * Social Starts
@@ -52,7 +50,7 @@ The total number of investors in AlphaPoint is 6 with one Lead Investor. The oth
   * Ben Franklin Technology Partners of Southeastern Pennsylvania
   * Robin Hood Ventures
 
-* Business Activities:
+## Business Activities:
 
 The specific financial problems the company is solving deal not only with the tokenization of assets, but also providing a cradle to grave ecosystem of minting and trading platforms in which the assets are actively funded and traded. Brokerage services also are an integral part of the company’s financial ecosystem. This allows for 150+ customers in 35+ countries the ability to launch and operate crypto assets, as well as digitize normally illiquid assets (AlphaPoint, n.d.). Again, the cradle to grave aspect of AlphaPoint’s products, the ability to fund, structure, digitize assets, trade on primary and secondary markets, and custodian services gives AlphaPoint a market edge that many other firms do not offer.
 
@@ -66,21 +64,21 @@ The intended customers for AlphaPoint are:
 
 According to G2 Stack and BuiltWith (Crunchbase, n.d.), among the 33 current technology products and services being used by AlphaPoint, some highlights are HTML5, Google Analytics, jQuery, Viewport Meta, Iphone / Mobile Compatible, SPF, NGINX, CloudFlare, Bootstrap, Google Tag Manager, Wordpress and G Suite (Stackshare.io, n.d.) .
 
-* Landscape:
+## Landscape:
 
 The current landscape in which AlphaPoint resides is the General Exchange Platforms. According to StackShare.io, AlphaPoint’s exchange platforms are able to process up to 1M transactions per second. This innovation has placed AlphaPoint as one of the industry leaders among its competitors. Competitors include but are not limited to (Growjo.com, n.d.) :
 
-* Noble Markets
-* Crux Informatics
-* ConsenSys
-* LiquidX
-* Ujo
-* Blockstack
-* EquityZen
+ * Noble Markets
+ * Crux Informatics
+ * ConsenSys
+ * LiquidX
+ * Ujo
+ * Blockstack
+ * EquityZen
 
 Other innovations besides the 1M transactions per second capability on AlphaPoint exchanges include streamlined digitization of assets with of course the complete ability to carry a customer from start, funding, and regulatory management to finished product all within one system without the need to bring in 3rd party providers, aside from KYC and AML advisors, which the company does not specialize in (Scott Bambacigno, VP Global Sales, personal communication, 12 November 2020).
 
-* Results:
+## Results:
 
 Aside from, again, a cradle to grave ecosystem for asset development, trade, and management, the company has been able to provide white-label software that powers crypto-exchanges worldwide (35+ countries). Being scalable, secure, and customizable, AlphaPoint’s exchanges and platforms have helped many startups and institutions develop their brand of blockchains.
 
@@ -90,7 +88,7 @@ Thus, another metric for supply distribution is the Network Distribution Factor 
 
 Compared to the competition, AlphaPoint is still small, clearing an annual revenue of $5.2M per year. When compared to larger competitors like Crux Informatics ($7.4M) it is on par, but bigger competitors like Consensys clear $64.5M in revenue. AlphaPoint’s estimated revenue per employee is $130K, which is on par with even the bigger competitors in the arena like Consensys which has a similar revenue per employee (Growjo.com, n.d.).
 
-* Recommendations:
+## Recommendations:
 
 I only have one suggestion for the company based on my limited knowledge of the arena, and that comes from AlphaPoint’s intent to be a one-stop shop for asset digitization and markets. That stems from the correspondence I had with the VP of Global Sales Scott Bambacigno, where he stated that AlphaPoint does not have an internal KYC or AML advisor department. He stated that clients must acquire outside vendors for such advisory. I think that if AlphaPoint wants to capture the idea that they are indeed a one-stop-shop, they should have complete guidance from cradle to grave. 
 
