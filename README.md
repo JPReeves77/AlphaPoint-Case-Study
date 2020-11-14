@@ -1,5 +1,5 @@
 # Case Study: AlphaPoint
-[!(800px-AlphaPoint_Logo_2015.png)]
+[![AlphaPoint](800px-AlphaPoint_Logo_2015.png)]
 
 ## Overview and Origin:
 
