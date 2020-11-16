@@ -1,6 +1,6 @@
 # Case Study: AlphaPoint
 
-[![](800px-AlphaPoint_Logo_2015.png)]
+![](800px-AlphaPoint_Logo_2015.png)
 
 ## Overview and Origin:
 
